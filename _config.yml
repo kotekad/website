@@ -2,12 +2,12 @@
 #
 
 # Site settings
-title: Spectral
+title: Kotekad Plantation Stay in Coorg
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  The Kotekad plantation stay is a place surrounded with nature and peace.   
+  The feeling of being around in the Kotekad plantation seems like enjoying every inch of nature and its beauty. 
+  Every single day of experience ...
+owner: kotekad # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "https://kotekad.github.io/website" # the subpath of your site, e.g. /blog
