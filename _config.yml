@@ -6,9 +6,9 @@ title: Kotekad Plantation Stay in Coorg
 description: |
   The Kotekad plantation stay is a place surrounded with nature and peace.   
   The feeling of being around in the Kotekad plantation seems like enjoying every inch of nature and its beauty.
-owner: kotekad # or company name
+owner: kotekad plantation # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
-#email: your-email@domain.com
+email: your-email@domain.com
 baseurl: "https://kotekad.github.io/website" # the subpath of your site, e.g. /blog
 url: "https://kotekad.github.io/website/" # the base hostname & protocol for your site
 social:
@@ -18,7 +18,7 @@ social:
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: bruh@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
