@@ -9,6 +9,8 @@ description: |
 owner: kotekad plantation # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: your-email@domain.com
+#baseurl: ""
+#url: ""
 baseurl: "https://kotekad.github.io/website" # the subpath of your site, e.g. /blog
 url: "https://kotekad.github.io/website/" # the base hostname & protocol for your site
 social:
